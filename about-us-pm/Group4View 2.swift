@@ -29,11 +29,6 @@ struct Group4View: View {
                 .tabItem {
                     Label("Kenzie", systemImage: "person.fill.turn.down")
                 }
-            
-            TimothyView()
-                .tabItem {
-                    Label("Timothy", systemImage: "person.fill.turn.down")
-                }
         }
     }
 }
