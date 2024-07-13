@@ -18,7 +18,7 @@ struct Group6MemberJames: View {
             Text("james")
                 .bold()
                 .font(.title)
-            Text("sanath is short lol")
+            Text("im retarded")
         }
     }
 }
