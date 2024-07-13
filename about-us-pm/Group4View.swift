@@ -27,8 +27,7 @@ struct Group4View: View {
             
             Group4Kenzie()
                 .tabItem {
-                    Label("Kenzie",
-                        systemImage: "person.fill.turn.down")
+                    Label("Kenzie", systemImage: "person.fill.turn.down")
                 }
         }
     }
