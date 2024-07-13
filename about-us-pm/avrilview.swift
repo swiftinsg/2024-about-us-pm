@@ -9,8 +9,17 @@ import SwiftUI
 
 struct AvrilView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-            
+        ZStack {
+            Color.yellow
+            VStack {
+                Text("avril")
+                    .font(.largeTitle)
+                Text("14")
+                    .foregroundStyle(.blue)
+                Text("st nicks")
+                Text("ok")
+            }
+        }
     }
 }
 
