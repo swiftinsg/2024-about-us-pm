@@ -23,6 +23,7 @@
 		B07411832C426D9E0009AFCF /* Group1EthanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411822C426D9E0009AFCF /* Group1EthanView.swift */; };
 		B07411852C426DA80009AFCF /* Group1DavidView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411842C426DA80009AFCF /* Group1DavidView.swift */; };
 		B07411872C426DC60009AFCF /* Group1VidishaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411862C426DC60009AFCF /* Group1VidishaView.swift */; };
+		B07411892C4275080009AFCF /* Group1MadhanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411882C4275080009AFCF /* Group1MadhanView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		B07411822C426D9E0009AFCF /* Group1EthanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1EthanView.swift; sourceTree = "<group>"; };
 		B07411842C426DA80009AFCF /* Group1DavidView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1DavidView.swift; sourceTree = "<group>"; };
 		B07411862C426DC60009AFCF /* Group1VidishaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1VidishaView.swift; sourceTree = "<group>"; };
+		B07411882C4275080009AFCF /* Group1MadhanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1MadhanView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				3218FAD22C4225AD00A3C570 /* ContentView.swift */,
 				3218FADE2C42262500A3C570 /* InstructorMentorView.swift */,
 				3218FAE02C42262C00A3C570 /* Group1View.swift */,
+				B07411882C4275080009AFCF /* Group1MadhanView.swift */,
 				B074117E2C426D870009AFCF /* Group1VijaiView.swift */,
 				B07411802C426D940009AFCF /* Group1QiYang.swift */,
 				B07411822C426D9E0009AFCF /* Group1EthanView.swift */,
@@ -182,6 +185,7 @@
 				B07411852C426DA80009AFCF /* Group1DavidView.swift in Sources */,
 				B07411872C426DC60009AFCF /* Group1VidishaView.swift in Sources */,
 				3218FAE72C42264400A3C570 /* Group4View.swift in Sources */,
+				B07411892C4275080009AFCF /* Group1MadhanView.swift in Sources */,
 				3218FAE12C42262C00A3C570 /* Group1View.swift in Sources */,
 				3218FADF2C42262500A3C570 /* InstructorMentorView.swift in Sources */,
 				B07411812C426D940009AFCF /* Group1QiYang.swift in Sources */,
