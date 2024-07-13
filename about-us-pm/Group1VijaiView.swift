@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Group1VijaiView: View {
     
-    @State private var scale = 1.0
+    
     
     var body: some View {
         Text("Hello, I am Vijai")
@@ -18,5 +18,5 @@ struct Group1VijaiView: View {
 }
 
 #Preview {
-    InstructorMentorView()
+    Group1VijaiView()
 }

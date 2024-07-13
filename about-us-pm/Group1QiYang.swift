@@ -9,14 +9,14 @@ import SwiftUI
 
 struct Group1QiYang: View {
     
-    @State private var scale = 1.0
+   
     
     var body: some View {
-        Text("Hello, I am Vijai")
+        Text("Hello, I am Qi Yang")
         
     }
 }
 
 #Preview {
-    InstructorMentorView()
+    Group1QiYang()
 }
