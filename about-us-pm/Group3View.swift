@@ -20,11 +20,11 @@ struct Group3View: View {
                     Label("Avril", systemImage: "person")
                 }
             
-            FengyiView()
+            SophieView()
                 .tabItem {
                     Label("Sophie", systemImage: "person.fill.turn.down")
                 }
-            SophieView()
+            FengyiView()
                 .tabItem {
                     Label("Feng Yi", systemImage: "person.fill.turn.down")
             }
