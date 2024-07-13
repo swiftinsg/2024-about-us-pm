@@ -10,7 +10,7 @@ import SwiftUI
 struct Group6View: View {
     var body: some View {
         TabView {
-            /*@START_MENU_TOKEN@*/Text("This is person 1! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            Group6MemberSanath()
                 .tabItem {
                     Label("Person 1", systemImage: "person.circle.fill")
                 }
