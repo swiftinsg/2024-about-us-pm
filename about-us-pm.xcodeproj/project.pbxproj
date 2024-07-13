@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A4C4C4E2C426E2E00268F7B /* Group6MemberJames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4C4C4D2C426E2E00268F7B /* Group6MemberJames.swift */; };
 		3218FAD12C4225AD00A3C570 /* about_us_pmApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAD02C4225AD00A3C570 /* about_us_pmApp.swift */; };
 		3218FAD32C4225AD00A3C570 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAD22C4225AD00A3C570 /* ContentView.swift */; };
 		3218FAD52C4225AE00A3C570 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3218FAD42C4225AE00A3C570 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A4C4C4D2C426E2E00268F7B /* Group6MemberJames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6MemberJames.swift; sourceTree = "<group>"; };
 		3218FACD2C4225AD00A3C570 /* about-us-pm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "about-us-pm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3218FAD02C4225AD00A3C570 /* about_us_pmApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = about_us_pmApp.swift; sourceTree = "<group>"; };
 		3218FAD22C4225AD00A3C570 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				3218FAE82C42264B00A3C570 /* Group5View.swift */,
 				3218FAEA2C42265200A3C570 /* Group6View.swift */,
 				819BDEB82C426C7200A94FF6 /* Group6MemberSanath.swift */,
+				1A4C4C4D2C426E2E00268F7B /* Group6MemberJames.swift */,
 				3218FAD42C4225AE00A3C570 /* Assets.xcassets */,
 				3218FAD62C4225AE00A3C570 /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 			files = (
 				3218FAE92C42264B00A3C570 /* Group5View.swift in Sources */,
 				3218FAE52C42263900A3C570 /* Group3View.swift in Sources */,
+				1A4C4C4E2C426E2E00268F7B /* Group6MemberJames.swift in Sources */,
 				3218FAEB2C42265200A3C570 /* Group6View.swift in Sources */,
 				3218FAE32C42263200A3C570 /* Group2View.swift in Sources */,
 				3218FAE72C42264400A3C570 /* Group4View.swift in Sources */,
