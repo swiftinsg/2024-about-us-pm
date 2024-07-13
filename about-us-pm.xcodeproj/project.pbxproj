@@ -18,6 +18,7 @@
 		3218FAE72C42264400A3C570 /* Group4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE62C42264400A3C570 /* Group4View.swift */; };
 		3218FAE92C42264B00A3C570 /* Group5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE82C42264B00A3C570 /* Group5View.swift */; };
 		3218FAEB2C42265200A3C570 /* Group6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAEA2C42265200A3C570 /* Group6View.swift */; };
+		73A9BF2D2C426DFB00E2570B /* Group4YAY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A9BF2C2C426DFB00E2570B /* Group4YAY.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		3218FAE62C42264400A3C570 /* Group4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group4View.swift; sourceTree = "<group>"; };
 		3218FAE82C42264B00A3C570 /* Group5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group5View.swift; sourceTree = "<group>"; };
 		3218FAEA2C42265200A3C570 /* Group6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6View.swift; sourceTree = "<group>"; };
+		73A9BF2C2C426DFB00E2570B /* Group4YAY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group4YAY.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				3218FAE62C42264400A3C570 /* Group4View.swift */,
 				3218FAE82C42264B00A3C570 /* Group5View.swift */,
 				3218FAEA2C42265200A3C570 /* Group6View.swift */,
+				73A9BF2C2C426DFB00E2570B /* Group4YAY.swift */,
 				3218FAD42C4225AE00A3C570 /* Assets.xcassets */,
 				3218FAD62C4225AE00A3C570 /* Preview Content */,
 			);
@@ -164,6 +167,7 @@
 				3218FAE32C42263200A3C570 /* Group2View.swift in Sources */,
 				3218FAE72C42264400A3C570 /* Group4View.swift in Sources */,
 				3218FAE12C42262C00A3C570 /* Group1View.swift in Sources */,
+				73A9BF2D2C426DFB00E2570B /* Group4YAY.swift in Sources */,
 				3218FADF2C42262500A3C570 /* InstructorMentorView.swift in Sources */,
 				3218FAD32C4225AD00A3C570 /* ContentView.swift in Sources */,
 				3218FAD12C4225AD00A3C570 /* about_us_pmApp.swift in Sources */,
