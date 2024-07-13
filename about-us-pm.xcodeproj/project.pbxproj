@@ -12,12 +12,16 @@
 		3218FAD52C4225AE00A3C570 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3218FAD42C4225AE00A3C570 /* Assets.xcassets */; };
 		3218FAD82C4225AE00A3C570 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3218FAD72C4225AE00A3C570 /* Preview Assets.xcassets */; };
 		3218FADF2C42262500A3C570 /* InstructorMentorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FADE2C42262500A3C570 /* InstructorMentorView.swift */; };
-		3218FAE12C42262C00A3C570 /* Group1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE02C42262C00A3C570 /* Group1View.swift */; };
+		3218FAE12C42262C00A3C570 /* Group1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE02C42262C00A3C570 /* Group1.swift */; };
 		3218FAE32C42263200A3C570 /* Group2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE22C42263200A3C570 /* Group2View.swift */; };
 		3218FAE52C42263900A3C570 /* Group3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE42C42263900A3C570 /* Group3View.swift */; };
 		3218FAE72C42264400A3C570 /* Group4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE62C42264400A3C570 /* Group4View.swift */; };
 		3218FAE92C42264B00A3C570 /* Group5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE82C42264B00A3C570 /* Group5View.swift */; };
 		3218FAEB2C42265200A3C570 /* Group6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAEA2C42265200A3C570 /* Group6View.swift */; };
+		592843442C42705D002E61EC /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592843432C42705D002E61EC /* SwiftUIView.swift */; };
+		592843462C4272C0002E61EC /* avrilview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592843452C4272C0002E61EC /* avrilview.swift */; };
+		592843482C4272DF002E61EC /* Fengyiview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592843472C4272DF002E61EC /* Fengyiview.swift */; };
+		5928434A2C427325002E61EC /* SophieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592843492C427325002E61EC /* SophieView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,12 +31,16 @@
 		3218FAD42C4225AE00A3C570 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3218FAD72C4225AE00A3C570 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3218FADE2C42262500A3C570 /* InstructorMentorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructorMentorView.swift; sourceTree = "<group>"; };
-		3218FAE02C42262C00A3C570 /* Group1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1View.swift; sourceTree = "<group>"; };
+		3218FAE02C42262C00A3C570 /* Group1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1.swift; sourceTree = "<group>"; };
 		3218FAE22C42263200A3C570 /* Group2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group2View.swift; sourceTree = "<group>"; };
 		3218FAE42C42263900A3C570 /* Group3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group3View.swift; sourceTree = "<group>"; };
 		3218FAE62C42264400A3C570 /* Group4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group4View.swift; sourceTree = "<group>"; };
 		3218FAE82C42264B00A3C570 /* Group5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group5View.swift; sourceTree = "<group>"; };
 		3218FAEA2C42265200A3C570 /* Group6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6View.swift; sourceTree = "<group>"; };
+		592843432C42705D002E61EC /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		592843452C4272C0002E61EC /* avrilview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avrilview.swift; sourceTree = "<group>"; };
+		592843472C4272DF002E61EC /* Fengyiview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fengyiview.swift; sourceTree = "<group>"; };
+		592843492C427325002E61EC /* SophieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SophieView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,9 +76,13 @@
 				3218FAD02C4225AD00A3C570 /* about_us_pmApp.swift */,
 				3218FAD22C4225AD00A3C570 /* ContentView.swift */,
 				3218FADE2C42262500A3C570 /* InstructorMentorView.swift */,
-				3218FAE02C42262C00A3C570 /* Group1View.swift */,
+				3218FAE02C42262C00A3C570 /* Group1.swift */,
 				3218FAE22C42263200A3C570 /* Group2View.swift */,
 				3218FAE42C42263900A3C570 /* Group3View.swift */,
+				592843432C42705D002E61EC /* SwiftUIView.swift */,
+				592843452C4272C0002E61EC /* avrilview.swift */,
+				592843472C4272DF002E61EC /* Fengyiview.swift */,
+				592843492C427325002E61EC /* SophieView.swift */,
 				3218FAE62C42264400A3C570 /* Group4View.swift */,
 				3218FAE82C42264B00A3C570 /* Group5View.swift */,
 				3218FAEA2C42265200A3C570 /* Group6View.swift */,
@@ -160,10 +172,14 @@
 			files = (
 				3218FAE92C42264B00A3C570 /* Group5View.swift in Sources */,
 				3218FAE52C42263900A3C570 /* Group3View.swift in Sources */,
+				592843462C4272C0002E61EC /* avrilview.swift in Sources */,
 				3218FAEB2C42265200A3C570 /* Group6View.swift in Sources */,
 				3218FAE32C42263200A3C570 /* Group2View.swift in Sources */,
+				592843442C42705D002E61EC /* SwiftUIView.swift in Sources */,
+				5928434A2C427325002E61EC /* SophieView.swift in Sources */,
 				3218FAE72C42264400A3C570 /* Group4View.swift in Sources */,
-				3218FAE12C42262C00A3C570 /* Group1View.swift in Sources */,
+				3218FAE12C42262C00A3C570 /* Group1.swift in Sources */,
+				592843482C4272DF002E61EC /* Fengyiview.swift in Sources */,
 				3218FADF2C42262500A3C570 /* InstructorMentorView.swift in Sources */,
 				3218FAD32C4225AD00A3C570 /* ContentView.swift in Sources */,
 				3218FAD12C4225AD00A3C570 /* about_us_pmApp.swift in Sources */,
