@@ -18,6 +18,11 @@
 		3218FAE72C42264400A3C570 /* Group4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE62C42264400A3C570 /* Group4View.swift */; };
 		3218FAE92C42264B00A3C570 /* Group5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAE82C42264B00A3C570 /* Group5View.swift */; };
 		3218FAEB2C42265200A3C570 /* Group6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3218FAEA2C42265200A3C570 /* Group6View.swift */; };
+		B074117F2C426D870009AFCF /* Group1VijaiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B074117E2C426D870009AFCF /* Group1VijaiView.swift */; };
+		B07411812C426D940009AFCF /* Group1QiYang.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411802C426D940009AFCF /* Group1QiYang.swift */; };
+		B07411832C426D9E0009AFCF /* Group1EthanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411822C426D9E0009AFCF /* Group1EthanView.swift */; };
+		B07411852C426DA80009AFCF /* Group1DavidView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411842C426DA80009AFCF /* Group1DavidView.swift */; };
+		B07411872C426DC60009AFCF /* Group1VidishaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07411862C426DC60009AFCF /* Group1VidishaView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +38,11 @@
 		3218FAE62C42264400A3C570 /* Group4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group4View.swift; sourceTree = "<group>"; };
 		3218FAE82C42264B00A3C570 /* Group5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group5View.swift; sourceTree = "<group>"; };
 		3218FAEA2C42265200A3C570 /* Group6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6View.swift; sourceTree = "<group>"; };
+		B074117E2C426D870009AFCF /* Group1VijaiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1VijaiView.swift; sourceTree = "<group>"; };
+		B07411802C426D940009AFCF /* Group1QiYang.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1QiYang.swift; sourceTree = "<group>"; };
+		B07411822C426D9E0009AFCF /* Group1EthanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1EthanView.swift; sourceTree = "<group>"; };
+		B07411842C426DA80009AFCF /* Group1DavidView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1DavidView.swift; sourceTree = "<group>"; };
+		B07411862C426DC60009AFCF /* Group1VidishaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1VidishaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +79,11 @@
 				3218FAD22C4225AD00A3C570 /* ContentView.swift */,
 				3218FADE2C42262500A3C570 /* InstructorMentorView.swift */,
 				3218FAE02C42262C00A3C570 /* Group1View.swift */,
+				B074117E2C426D870009AFCF /* Group1VijaiView.swift */,
+				B07411802C426D940009AFCF /* Group1QiYang.swift */,
+				B07411822C426D9E0009AFCF /* Group1EthanView.swift */,
+				B07411842C426DA80009AFCF /* Group1DavidView.swift */,
+				B07411862C426DC60009AFCF /* Group1VidishaView.swift */,
 				3218FAE22C42263200A3C570 /* Group2View.swift */,
 				3218FAE42C42263900A3C570 /* Group3View.swift */,
 				3218FAE62C42264400A3C570 /* Group4View.swift */,
@@ -159,12 +174,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				3218FAE92C42264B00A3C570 /* Group5View.swift in Sources */,
+				B07411832C426D9E0009AFCF /* Group1EthanView.swift in Sources */,
 				3218FAE52C42263900A3C570 /* Group3View.swift in Sources */,
+				B074117F2C426D870009AFCF /* Group1VijaiView.swift in Sources */,
 				3218FAEB2C42265200A3C570 /* Group6View.swift in Sources */,
 				3218FAE32C42263200A3C570 /* Group2View.swift in Sources */,
+				B07411852C426DA80009AFCF /* Group1DavidView.swift in Sources */,
+				B07411872C426DC60009AFCF /* Group1VidishaView.swift in Sources */,
 				3218FAE72C42264400A3C570 /* Group4View.swift in Sources */,
 				3218FAE12C42262C00A3C570 /* Group1View.swift in Sources */,
 				3218FADF2C42262500A3C570 /* InstructorMentorView.swift in Sources */,
+				B07411812C426D940009AFCF /* Group1QiYang.swift in Sources */,
 				3218FAD32C4225AD00A3C570 /* ContentView.swift in Sources */,
 				3218FAD12C4225AD00A3C570 /* about_us_pmApp.swift in Sources */,
 			);
