@@ -9,7 +9,10 @@ import SwiftUI
 
 struct SophieView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("Hello I'm Sophie")
+            .bold()
+            .padding()
+            
     }
 }
 
