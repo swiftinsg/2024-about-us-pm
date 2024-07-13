@@ -24,6 +24,12 @@ struct Group4View: View {
                 .tabItem {
                     Label("KaungMyat", systemImage: "person.fill.turn.down")
                 }
+            
+            Group4Kenzie()
+                .tabItem {
+                    Label("Kenzie",
+                        systemImage: "person.fill.turn.down")
+                }
         }
     }
 }
