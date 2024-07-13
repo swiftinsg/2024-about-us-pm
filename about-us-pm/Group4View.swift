@@ -15,9 +15,9 @@ struct Group4View: View {
                     Label("YAY", systemImage: "person.circle.fill")
                 }
             
-            /*@START_MENU_TOKEN@*/Text("This is person 2! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            Group4AngelineView()
                 .tabItem {
-                    Label("Person 2", systemImage: "person")
+                    Label("Angeline", systemImage: "person")
                 }
             
             /*@START_MENU_TOKEN@*/Text("This is person 3! Replace me with a view.")/*@END_MENU_TOKEN@*/
